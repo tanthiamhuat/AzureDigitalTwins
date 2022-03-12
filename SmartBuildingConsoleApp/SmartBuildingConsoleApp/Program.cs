@@ -19,7 +19,7 @@ namespace SmartBuildingConsoleApp
             dtHelper.CreateModel(paths);
             */
 
-            string path = @"D:\Binnies\Azure\Code\Console\SmartBuildingConsoleApp\SmartBuildingConsoleApp\Models\Chapter4\room.json";
+            string path = @"D:\Binnies\AzureDigitalTwins\SmartBuildingConsoleApp\SmartBuildingConsoleApp\Models\Chapter4\room.json";
             dtHelper.CreateModel(path);
         }
     }
